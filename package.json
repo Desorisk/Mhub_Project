@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.2",
+    "bootstrap-icons": "^1.13.1",
+    "tailwindcss": "^4.2.2"
+  },
+"scripts": {
+  "dev": "tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch"
+}
+}
